@@ -24,7 +24,7 @@ Data
 If you use this project in your research or wish to refer to the FLARE model, please use the following BibTeX entry.
 
 ```bash
-@ARTICLE{9512047,
+@ARTICLE{Xu2022TMI,
   author={Xu, Geng-Xin and Liu, Chen and Liu, Jun and Ding, Zhongxiang and Shi, Feng and Guo, Man and Zhao, Wei and Li, Xiaoming and Wei, Ying and Gao, Yaozong and Ren, Chuan-Xian and Shen, Dinggang},
   journal={IEEE Transactions on Medical Imaging},
   title={Cross-Site Severity Assessment of COVID-19 From CT Images via Domain Adaptation},
