@@ -1,4 +1,4 @@
-## This is a pytorch implementation of the model FLARE (Fair cross-domain adaptation with LAtent REpresentations) - [TMI2022](https://ieeexplore.ieee.org/abstract/document/9512047/) [arXiV](https://arxiv.org/abs/2109.03478)
+## This is a pytorch implementation of the model FLARE (Fair cross-domain adaptation with LAtent REpresentations) - [TMI2022](https://ieeexplore.ieee.org/abstract/document/9512047/), [arXiV](https://arxiv.org/abs/2109.03478)
 
 ## Environment
 - pytorch 1.0.1
